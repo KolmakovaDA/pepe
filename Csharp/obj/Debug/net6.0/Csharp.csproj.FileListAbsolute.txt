@@ -1,0 +1,15 @@
+D:\tomato\cucumber\Csharp\bin\Debug\net6.0\Csharp.exe
+D:\tomato\cucumber\Csharp\bin\Debug\net6.0\Csharp.deps.json
+D:\tomato\cucumber\Csharp\bin\Debug\net6.0\Csharp.runtimeconfig.json
+D:\tomato\cucumber\Csharp\bin\Debug\net6.0\Csharp.dll
+D:\tomato\cucumber\Csharp\bin\Debug\net6.0\Csharp.pdb
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\Csharp.csproj.AssemblyReference.cache
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\Csharp.AssemblyInfoInputs.cache
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\Csharp.AssemblyInfo.cs
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\Csharp.csproj.CoreCompileInputs.cache
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\Csharp.dll
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\refint\Csharp.dll
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\Csharp.pdb
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\Csharp.genruntimeconfig.cache
+D:\tomato\cucumber\Csharp\obj\Debug\net6.0\ref\Csharp.dll
