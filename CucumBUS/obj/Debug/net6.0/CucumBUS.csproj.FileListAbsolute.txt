@@ -1,0 +1,15 @@
+D:\tomato\cucumber\CucumBUS\bin\Debug\net6.0\CucumBUS.exe
+D:\tomato\cucumber\CucumBUS\bin\Debug\net6.0\CucumBUS.deps.json
+D:\tomato\cucumber\CucumBUS\bin\Debug\net6.0\CucumBUS.runtimeconfig.json
+D:\tomato\cucumber\CucumBUS\bin\Debug\net6.0\CucumBUS.dll
+D:\tomato\cucumber\CucumBUS\bin\Debug\net6.0\CucumBUS.pdb
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\CucumBUS.csproj.AssemblyReference.cache
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\CucumBUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\CucumBUS.AssemblyInfoInputs.cache
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\CucumBUS.AssemblyInfo.cs
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\CucumBUS.csproj.CoreCompileInputs.cache
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\CucumBUS.dll
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\refint\CucumBUS.dll
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\CucumBUS.pdb
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\CucumBUS.genruntimeconfig.cache
+D:\tomato\cucumber\CucumBUS\obj\Debug\net6.0\ref\CucumBUS.dll
