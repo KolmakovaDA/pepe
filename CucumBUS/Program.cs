@@ -4,23 +4,23 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите высоту массива:");
+            Console.Write("Введите высоту массива:");
             var str = Console.ReadLine();
             int a= Convert.ToInt32(str);
-            Console.WriteLine("Введите длинну массива массива:");
+            Console.Write("Введите длинну массива массива:");
             var str1 = Console.ReadLine();
             int b= Convert.ToInt32(str1);
             int [,] arr = new int[a,b];
 
             Random rand = new Random();
-            for (int i=0;i<arr.GetLength(0);i++){
-                for (int j=0;j<arr.GetLength(0);j++){
+             for (int i=0;i<a;i++){
+                for (int j=0;j<b;j++){
                    arr[i,j]=rand.Next(100);
                 }
             }  
 
-            for (int i=0;i<arr.GetLength(0);i++){
-                for (int j=0;j<arr.GetLength(0);j++){
+            for (int i=0;i<a;i++){
+                for (int j=0;j<b;j++){
                     Console.Write(arr[i , j]+" ");
                 }
                 Console.WriteLine();
